@@ -11,6 +11,7 @@
     "antd": "^4.22.4",
     "axios": "^0.27.2",
     "chart.js": "^3.9.1",
+    "dotenv": "^16.0.1",
     "html-react-parser": "^3.0.1",
     "millify": "^5.0.0",
     "moment": "^2.29.4",
